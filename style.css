@@ -1,4 +1,23 @@
 .image {
-    height: 350px;
-    width: auto;
+    display:block;
+    height: auto;
+    width: 350px;
+    margin: auto;
+}
+
+* {
+    background-color: burlywood;
+}
+
+.title {
+    text-align: center;
+}
+
+.description {
+    border:solid red;
+    background-color:;
+}
+
+.description-title {
+    font-weight: strong
 }
